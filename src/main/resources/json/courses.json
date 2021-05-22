@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ART-1050",
+    "name": "Artistic Interpretation 1050",
+    "description": "Discover your inner beholder",
+    "students": [
+      "rcotter",
+      "scott",
+      "jeff"
+    ],
+    "ratings": [
+      "3.0",
+      "4.0",
+      "3.0",
+      "4.0",
+      "4.0",
+      "3.0",
+      "4.0",
+      "4.0"
+    ]
+  },
+  {
+    "id": "ENGCOMP-1010",
+    "name": "English Composition 1010",
+    "description": "If you can't write well, you've got nothing!",
+    "students": [
+      "scott",
+      "lee2331",
+      "rcotter",
+      "john.shore",
+      "jeff"
+    ],
+    "ratings": [
+      "4.0",
+      "4.0",
+      "5.0",
+      "4.0",
+      "5.0",
+      "1.0",
+      "5.0"
+    ]
+  },
+  {
+    "id": "HIST-1010",
+    "name": "History of the World 1010",
+    "description": "A bunch of really interesting things that actually happened",
+    "students": [
+      "scott",
+      "john.shore"
+    ],
+    "ratings": [
+      "3.0",
+      "5.0",
+      "4.0",
+      "5.0",
+      "4.0",
+      "4.0",
+      "2.0",
+      "4.0"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "jeff",
+    "name": {
+      "first": "Jeff",
+      "last": "Holland"
+    },
+    "email": "jeff@yahoo.com",
+    "major": "Business"
+  },
+  {
+    "id": "john.shore",
+    "name": {
+      "first": "John",
+      "last": "Shore"
+    },
+    "email": "john.shore@gmail.com",
+    "major": "Electrical Engineering"
+  },
+  {
+    "id": "lee2331",
+    "name": {
+      "first": "Lee",
+      "last": "Aldwell"
+    },
+    "email": "lee2331@aol.com",
+    "major": "Graphic Design"
+  },
+  {
+    "id": "rcotter",
+    "name": {
+      "first": "Ray",
+      "last": "Cotter"
+    },
+    "email": "rcotter@msn.com",
+    "major": "Computer Science"
+  },
+  {
+    "id": "scott",
+    "name": {
+      "first": "Scott",
+      "last": "Mills"
+    },
+    "email": "scott@hotmail.com",
+    "major": "Humanities/Art"
+  }
+]

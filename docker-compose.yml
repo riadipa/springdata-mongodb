@@ -1,0 +1,26 @@
+version: '2'
+services:
+    spring-app:
+        build:
+            context: .
+            dockerfile: docker/app/Dockerfile
+        image: aritra.edu/spring-app
+        ports:
+        - "9000:8080"
+        networks:
+        - spring-app-net
+        container_name: spring-app
+        depends_on:
+        - mongodb
+    
+    mongodb:
+        image: mongo:latest
+        ports:
+        - "10000:27017"
+        container_name: mongodb
+        networks:
+        - spring-app-net
+
+networks:
+    spring-app-net:
+        driver: "bridge"
